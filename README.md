@@ -11,3 +11,4 @@ Se quiser via cli, basta digitar:
 
 Mapa ainda em desenvolvimento - muita coisa pode mudar ainda... e vai mudar!!!!
 
+Video Demo: https://youtu.be/s83Z4UGBcJk
