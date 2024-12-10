@@ -13,6 +13,9 @@ Mapa ainda em desenvolvimento - muita coisa pode mudar ainda... e vai mudar!!!!
 
 Video Demo: https://youtu.be/s83Z4UGBcJk
 
+v7:
+Replaced images - added Cheat Banner
+
 v6:
 Pictures Updates
 
