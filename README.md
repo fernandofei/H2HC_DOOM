@@ -11,6 +11,8 @@ Se quiser via cli, basta digitar:
 
 Mapa ainda em desenvolvimento - muita coisa pode mudar ainda... e vai mudar!!!!
 
+Gameplay: www.youtube.com/watch?v=pYi2O9ea4hI
+
 v7:
 Replaced images - added Cheat Banner
 
